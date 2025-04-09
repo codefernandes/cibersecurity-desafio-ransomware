@@ -1,0 +1,11 @@
+Este arquivo contem as chaves de criptografia de recursos de cryptomoeda.
+2eaeb797-e4a7-42e8-98f4-a45daddf7fde
+8c3ff18e-da61-472c-84b2-d499772e8eb0
+035fa728-f321-4e2e-a19b-4311daf31ea7
+b56befc0-72b9-450a-a4ca-1eb64bcc37be
+21a0e58f-a4ee-44c0-b503-d0bf9040e1cb
+d1a47439-2e22-4068-8047-deb793298442
+7a8ff9ba-1f22-4660-b833-5876eab3ef86
+18a30c96-1354-4281-8b12-c63aa28f3533
+d739183b-fdd1-417f-9237-143f38ea0708
+c29ffc6c-8c48-4549-8b86-0e21967a25a9
